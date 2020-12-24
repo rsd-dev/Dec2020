@@ -1,0 +1,21 @@
+[Event "Chinese Championship"]
+[Site "Xinghua Jiangsu, China"]
+[Date "24/12/2020"]
+[Round "6"]
+[White "Ju, Wenjun"]
+[Black "Wen, Yang"]
+[Result "1-0"]
+[BlackElo "2594"]
+[ECO "D45"]
+[Opening "Semi-Slav"]
+[Variation "6.Qc2 b6"]
+[WhiteElo "2560"]
+[TimeControl "5400+30"]
+[Termination "abandoned"]
+[PlyCount "75"]
+[WhiteType "human"]
+[BlackType "human"]
+[Annotator "lichess.org"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.13] } 2. c4 { [%eval 0.0] } 2... e6 { [%eval 0.29] } 3. Nf3 { [%eval 0.0] } 3... Nf6 { [%eval 0.31] } 4. Nc3 { [%eval 0.0] } 4... c6 { [%eval 0.05] } 5. e3 { [%eval 0.01] } 5... Nbd7 { [%eval 0.2] } 6. Qc2 { [%eval 0.05] } { D45 Semi-Slav Defense: Stoltz Variation } 6... b6 { [%eval 0.44] } 7. Be2 { [%eval 0.05] } 7... Bb7 { [%eval 0.1] } 8. O-O { [%eval 0.01] } 8... Bd6 { [%eval 0.02] } 9. Rd1 { [%eval 0.0] } 9... O-O { [%eval 0.03] } 10. e4 { [%eval 0.25] } 10... Nxe4 { [%eval 0.32] } 11. Nxe4 { [%eval 0.41] } 11... dxe4 { [%eval 0.37] } 12. Qxe4 { [%eval 0.32] } 12... Qc7 { [%eval 0.38] } 13. Bd3 { [%eval 0.53] } 13... g6 { [%eval 0.67] } 14. Qh4 { [%eval 0.72] } 14... Rfe8 { [%eval 0.48] } 15. Ng5 { [%eval 0.41] } 15... Nf6 { [%eval 0.14] } 16. c5 { [%eval 0.48] } 16... bxc5 { [%eval 0.52] } 17. dxc5 { [%eval 0.37] } 17... Bxc5 { [%eval 0.56] } 18. Bf4 { [%eval 0.32] } 18... e5 { [%eval 0.75] } 19. Be3 { [%eval 0.77] } 19... Bxe3?? { (0.77 → 4.23) Blunder. Be7 was best. } { [%eval 4.23] } (19... Be7) 20. fxe3 { [%eval 3.7] } 20... Qb6 { [%eval 4.78] } 21. Bc4? { (4.78 → 2.84) Mistake. Rf1 was best. } { [%eval 2.84] } (21. Rf1 Nh5 22. Bc4 Ba6 23. Bxa6 Qxa6 24. g4 f6 25. Ne4 f5 26. gxh5 fxe4 27. hxg6 hxg6) 21... Qxe3+ { [%eval 2.95] } 22. Kh1 { [%eval 2.94] } 22... Kg7 { [%eval 3.15] } 23. Rf1 { [%eval 3.48] } 23... Qd4 { [%eval 3.87] } 24. Ne4 { [%eval 3.41] } 24... Qxe4 { [%eval 3.5] } 25. Qxf6+ { [%eval 4.0] } 25... Kh6 { [%eval 3.65] } 26. Bxf7 { [%eval 3.8] } 26... Rf8 { [%eval 4.09] } 27. Rae1 { [%eval 4.01] } 27... Qg4 { [%eval 4.12] } 28. Re3? { (4.12 → 1.99) Mistake. Qe7 was best. } { [%eval 1.99] } (28. Qe7 Rab8) 28... c5 { [%eval 1.75] } 29. Rg3 { [%eval 2.2] } 29... Qh5 { [%eval 2.09] } 30. Kg1 { [%eval 2.3] } 30... Bc8? { (2.30 → 4.33) Mistake. Bd5 was best. } { [%eval 4.33] } (30... Bd5 31. Rh3 Qxh3 32. gxh3 Rxf7 33. Qh4+ Kg7 34. Rxf7+ Bxf7 35. Qe7 e4 36. a4 a6 37. Qe5+) 31. Rff3 { [%eval 3.98] } 31... e4? { (3.98 → 7.51) Mistake. Bg4 was best. } { [%eval 7.51] } (31... Bg4) 32. Rh3? { (7.51 → 3.97) Mistake. Qf4+ was best. } { [%eval 3.97] } (32. Qf4+ Kg7 33. Bxg6 Qxh2+ 34. Kxh2 Rxf4 35. Bxe4+ Rg4 36. Bxa8 h5 37. Bd5 c4 38. Rf7+ Kg6) 32... Bxh3 { [%eval 3.94] } 33. Rxh3 { [%eval 3.89] } 33... Qxh3 { [%eval 3.89] } 34. gxh3 { [%eval 3.99] } 34... Rad8 { [%eval 4.0] } 35. Qe7 { [%eval 4.02] } 35... Rd1+ { [%eval 4.21] } 36. Kf2 { [%eval 4.16] } 36... Rfd8 { [%eval 4.66] } 37. Bc4 { [%eval 4.71] } 37... R8d2+ { [%eval 4.98] } 38. Ke3 { [%eval 4.63] } { Black resigns. } 1-0
+
