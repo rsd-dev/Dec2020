@@ -1,0 +1,32 @@
+[Event "Airthings Masters | Knockout"]
+[Site "Online"]
+[Date "30/12/2020"]
+[Round "2.2"]
+[White "Nakamura, Hikaru"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[BlackElo "2778"]
+[ECO "A07"]
+[Opening "Reti Opening"]
+[Variation "KIA, Neo-Grünfeld Variation"]
+[WhiteElo "2829"]
+[TimeControl "120+6"]
+[Termination "abandoned"]
+[PlyCount "73"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. d3 Bg7 5. Bd2 Nc6 6. Qc1 e5 7. Bh6 (7. Nc3 $11
+{should be considered.}) 7... Bxh6 8. Qxh6 {Black is slightly better.} Ng4 9.
+Qd2 (9. Qg7 $5 Qf6 10. Qxf6 Nxf6 11. Nc3 $11) 9... e4 (9... f5 $15) 10. dxe4
+$11 dxe4 11. Qxd8+ Nxd8 12. Nd4 f5 $1 13. Nc3 (13. f3 $5 exf3 14. exf3 $11)
+13... Ne6 14. Nb3 Bd7 15. Bh3 {[#]} (15. h3 $11 {keeps the balance.} Ne5 16.
+O-O-O) 15... Nf6 ({Black should try} 15... h5 $1 $17) 16. f3 exf3 (16... Bc6
+$15) 17. exf3 O-O-O 18. Kf2 b6 19. Bf1 Bc6 20. Re1 Nd4 (20... Ng5 $5 21. Bg2 $8
+Rhe8 $11) 21. Ba6+ Bb7 $1 22. Nxd4 Bxa6 23. Rd1 Rhe8 24. a4 Bb7 $36 {White
+should prevent ...Ng4+! Black is pushing.} 25. a5 $2 {[#]} (25. Nb3 $11 {
+and White has nothing to worry.}) 25... Ng4+ $1 $19 {Black is clearly winning.}
+26. fxg4 {Black must now prevent Rhf1.} Bxh1 27. axb6 axb6 28. gxf5 gxf5 29.
+Nxf5 Rxd1 30. Nxd1 {Endgame KRB-KNN} Be4 31. Nde3 Kd7 32. g4 Ra8 33. Ng3 Bg6
+34. Ngf5 Bxf5 35. gxf5 Kd6 36. Kf3 Ke5 37. Kg4 {Accuracy: White = 48%, Black =
+73%.} 0-1
