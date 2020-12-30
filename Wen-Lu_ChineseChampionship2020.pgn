@@ -1,0 +1,32 @@
+[Event "Chinese Championship"]
+[Site "Xinghua Jiangsu, China"]
+[Date "30/12/2020"]
+[Round "11"]
+[White "Wen, Yang"]
+[Black "Lu, Shanglei"]
+[Result "0-1"]
+[BlackElo "2615"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Moscow Variation"]
+[WhiteElo "2594"]
+[TimeControl "120+6"]
+[Termination "abandoned"]
+[PlyCount "70"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O g6 5. d4 cxd4 6. Qxd4 ({Reject} 6. Nxd4
+$6 Bd7 $11) 6... f6 7. Qd5 Bd7 8. Bc4 {White is clearly better.} e6 9. Qd3 a6
+10. a4 Qc7 11. Nc3 (11. Bd2 $142) 11... Nh6 $16 12. Bb3 Ng4 13. h3 Nge5 14. Qd1
+Bg7 15. Nd4 (15. Be3 $16) 15... Nxd4 $11 16. Qxd4 f5 $1 {And now ...Nf3+!
+would win.} 17. Qd1 fxe4 18. Nxe4 d5 19. Nc3 O-O 20. Be3 Nc6 {aiming for ...d4.
+} 21. Ne2 $1 Na5 22. c3 b5 23. axb5 {Strongly threatening b6.} Nxb3 24. Qxb3
+Bxb5 25. Rfe1 Bc4 $36 {Black is more active.} 26. Qc2 e5 27. Qd2 a5 28. f4 d4
+29. cxd4 Bxe2 30. Rxe2 {[#]} (30. Qxe2 $11 {was the only way to keep the
+balance.} exd4 31. Bd2) 30... exf4 (30... exd4 $1 $17 31. Bf2 (31. Bxd4 $2 Rfd8
+$19) 31... Qxf4 32. Qxf4 Rxf4) 31. Bf2 $15 f3 32. gxf3 Rxf3 33. Kg2 $2 {[#]} (
+33. Ra3 $1 $15 Rf5 34. Qc2) 33... Raf8 (33... Qd7 $1 $19 34. Bg3 Qd5) 34. Qxa5
+$2 (34. Ra3 $17 R3f5 35. Bg3) 34... Qb7 $19 {( -> ...Rxf2+)} 35. d5 {[#]} Rxf2+
+$1 {Accuracy: White = 54%, Black = 72%.} 0-1
+
