@@ -1,0 +1,30 @@
+[Event "Airthings Masters | Knockout"]
+[Site "Online"]
+[Date "30/12/2020"]
+[Round "2.1"]
+[White "Radjabov, Teimour"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[BlackElo "2778"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3 Main Line, 10.a3"]
+[WhiteElo "2758"]
+[TimeControl "120+6"]
+[Termination "abandoned"]
+[PlyCount "63"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. Nf3 c5 2. c4 Nc6 3. e3 Nf6 4. Nc3 e6 5. d4 d5 6. cxd5 Nxd5 7. Bd3 Be7 8. a3
+cxd4 9. exd4 O-O 10. O-O b6 11. Qc2 Nf6 12. Rd1 {next d5! is good for White.}
+h6 $1 13. d5 exd5 {[#]} 14. Nxd5 $1 Nxd5 {White is slightly better.} ({Don't
+blunder} 14... Qxd5 $2 {[#]} 15. Bh7+ $1 Nxh7 16. Rxd5 $18) 15. Qxc6 Be6 $1 16.
+Qa4 Qc7 17. Bd2 Rad8 18. Rac1 $40 {Black needs to defend precisely.} Qb7 $2 (
+18... Qd6 $14) 19. Qe4 $18 g6 20. Bxh6 Bf5 21. Qa4 Bxd3 22. Bxf8 (22. Rxd3 Nf6
+$16) 22... Be2 23. Bxe7 Bxd1 24. Rxd1 ({Not} 24. Qxd1 Qxe7 25. g3 Nf4 $16)
+24... Qxe7 25. Qd4 b5 26. h4 Rd7 27. Ne5 Rd6 28. g3 a6 29. Ng4 Rd7 (29... Qe6 {
+was necessary.} 30. Ne5 Qf5) 30. Qe5 {White is clearly winning.} Qe6 31. Qxe6
+fxe6 {[#]} 32. Rxd5 $1 {Accuracy: White = 88%, Black = 52%.} 1-0
+
+
