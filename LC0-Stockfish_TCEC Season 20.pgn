@@ -1,0 +1,49 @@
+[Event "TCEC Season 20 "]
+[Site "Online"]
+[Date "31/12/2020"]
+[Round "12"]
+[White "LCZero"]
+[Black "Stockfish"]
+[Result "1-0"]
+[BlackElo "3592"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Sämisch, 5...O-O 6.Be3"]
+[WhiteElo "3575"]
+[TimeControl "120+6"]
+[Termination "normal"]
+[PlyCount "141"]
+[WhiteType "human"]
+[BlackType "human"]
+
+{E81: King's Indian: Sämisch: 6th move deviations (including 6 Be3 c6)} 1. d4
+Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nfd7 7. Qd2 c5 8. d5 $1 Qa5
+9. h4 $146 {White is better.} (9. Nh3 Ne5 10. Nf2 Qb4 11. Ncd1 Na6 12. a3 Qxd2+
+13. Bxd2 Nc7 14. Be2 e6 15. Nc3 Rb8 16. O-O exd5 17. exd5 f5 18. b4 b6 19. Rfb1
+Bd7 20. Ra2 Rfc8 21. f4 Nf7 22. b5 Re8 23. Bd3 Nd8 {Sutkovic,D (2296)-Vajic,G 
+(2283) Bihac 2014 0-1 (60)}) (9. Bh6 Bxh6 10. Qxh6 b5 (10... Ne5 11. Qd2 Qb4
+12. b3 f5 13. f4 Ng4 14. exf5 Bxf5 15. Nf3 e5 16. h3 Nf6 17. fxe5 dxe5 18. Be2
+e4 19. Ng5 e3 20. Qxe3 Re8 21. Qd2 Nbd7 22. g4 Ne4 23. Ngxe4 Bxe4 24. O-O Re5
+25. Rf2 {Livaic,L (2466)-Giannoulakis,L (2355) Paleochora 2017 1-0 (47)}) 11.
+h4 bxc4 12. h5 Nf6 13. O-O-O Qb4 14. e5 dxe5 15. d6 e6 16. Nh3 Nbd7 17. Ng5 Rb8
+18. Rd2 {1-0 (18) Wang,H (2722)-Zhou,J (2652) Danzhou 2010}) (9. Nb5 Qb6 10. a4
+a6 11. Nc3 Qb4 12. Nd1 a5 13. Qxb4 axb4 14. Ra2 b3 15. Ra3 Na6 16. Rxb3 Nb4 17.
+Kd2 Rxa4 18. Ra3 Nb6 19. Nc3 Ra6 20. Bd3 f5 21. Rxa6 bxa6 22. b3 Nxd3 23. Kxd3
+fxe4+ {Jimenez Martinez,J (2277)-Forcen Esteban,D (2469) Madrid 2012 1/2-1/2 
+(69)}) 9... Ne5 {[#]} 10. Bh6 $1 Bxh6 11. Qxh6 {aiming for h5.} Qb4 {[#]} 12.
+h5 $1 {White wants to mate with hxg6.} Qxb2 13. Rc1 {Black must now prevent
+hxg6.} g5 14. Qxg5+ Kh8 15. h6 Rg8 16. Qd2 Qxd2+ 17. Kxd2 f6 18. f4 (18. Nd1
+$18) 18... Nf7 $16 19. Nf3 Nd7 (19... b6 $16) 20. Be2 $18 Nf8 21. a4 (21. Ne1
+$16) 21... b6 (21... Rxg2 $14 22. Ne1 Rg3) 22. Rcf1 (22. Rcg1 $18) 22... Rb8 (
+22... Rxg2 $16 {keeps fighting.} 23. Ne1 Rg3) 23. Nd1 $2 (23. Ne1 $18) 23...
+Bd7 (23... Rxg2 $14 24. Ne3 Rg8) 24. Ne3 Rb7 25. Ra1 Ng6 26. g3 Nf8 27. Nf5 (
+27. Nf1 $142) 27... e5 $2 (27... Bxf5 $16 28. exf5 Rxg3) 28. dxe6 $40 {White
+wants a kill.} Nxe6 (28... Bxe6 {might work better.} 29. N3h4 Ng6) 29. Ke1 Bc6
+30. Bd3 Nf8 31. Kf2 Ne6 32. Ne1 Rc7 33. Nc2 Rb7 34. Nce3 Rf8 35. Bc2 Nd4 36.
+Nxd4 cxd4 37. Nf5 Rc7 38. Nxd4 Bd7 39. Bd3 Rc5 40. Nf5 Ra5 41. Be2 Rc5 42. Ne3
+Ra5 43. Nd5 Nd8 44. Ke3 Bxa4 45. Bd1 Bd7 46. Rxa5 bxa5 47. Bc2 Be6 48. Ra1 Nb7
+49. Kd4 Nd8 50. Ba4 Bg4 51. f5 Nf7 52. Nxf6 Bxf5 53. exf5 Nxh6 54. Ne8 Nxf5+
+55. Ke4 Nxg3+ 56. Kd5 Rf5+ 57. Kxd6 Rf3 58. c5 Rd3+ 59. Ke7 Re3+ 60. Kd8 Re4
+61. Bd7 Kg8 62. c6 {White mates.} Re3 63. c7 Rc3 {[#]} 64. Ra3 $1 Rxa3 65. c8=Q
+{Endgame} Rf3 66. Qc4+ Rf7 67. Be6 Nf5 68. Bxf7+ Kf8 69. Be6 a4 70. Qc5+ Ne7
+71. Qxe7# {Weighted Error Value: White=0.18/Black=0.35} *
